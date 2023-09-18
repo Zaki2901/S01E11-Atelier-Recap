@@ -20,7 +20,7 @@
 
 :bird: [Twitter](https://twitter.com/?lang=fr)
 
-[Linkdin](https://fr.linkedin.com/)
+:monkey:[Linkdin](https://fr.linkedin.com/)
 
   ---
 
