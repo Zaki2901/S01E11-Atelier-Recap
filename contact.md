@@ -13,7 +13,7 @@
  N'hesitez pas une seule seconde, contactez moi
 
  
- :mailbox:[zaki.diop@oclock](zaki.diop@oclcok.school/)
+:mailbox_with_mail: [zaki.diop@oclock](zaki.diop@oclcok.school/)
 
 :telephone_receiver:  06 30 76 10 05
   ---
