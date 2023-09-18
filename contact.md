@@ -15,7 +15,7 @@
  
 :mailbox_with_mail: [zaki.diop@oclock](zaki.diop@oclcok.school/)
 
-:telephone_receiver:  06 30 76 10 05
+:iphone:  06 30 76 10 05
 
 
 [Twitter](https://twitter.com/?lang=fr)
