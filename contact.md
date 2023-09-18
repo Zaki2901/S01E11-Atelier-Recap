@@ -18,7 +18,7 @@
 :iphone:  06 30 76 10 05
 
 
-[Twitter](https://twitter.com/?lang=fr)
+:bird: [Twitter](https://twitter.com/?lang=fr)
 
 [Linkdin](https://fr.linkedin.com/)
 
