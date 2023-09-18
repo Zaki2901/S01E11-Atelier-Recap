@@ -14,7 +14,7 @@
 
  [zaki.diop@oclock](zaki.diop@oclcok.school/)
 
-: telephone_receiver :  06 30 76 10 05
+:telephone_receiver:  06 30 76 10 05
   ---
 
   ©2023 - Zaki Diop - [me contactez](contact.md)
