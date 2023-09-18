@@ -4,7 +4,7 @@
 
 # Zaki diop
 
-  *Developeur Junior Web accessibilité en formation Accesibilité*
+  *Developeur Junior Web en formation Accesibilité*
 
   [Accueil](/README.md)  -  [Projets](/projets.md) - [CV](/CV.md) -  [contact](/contact.md)
 
