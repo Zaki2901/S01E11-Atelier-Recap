@@ -16,6 +16,12 @@
 :mailbox_with_mail: [zaki.diop@oclock](zaki.diop@oclcok.school/)
 
 :telephone_receiver:  06 30 76 10 05
+
+
+[Twitter](https://twitter.com/?lang=fr)
+
+[Linkdin](https://fr.linkedin.com/)
+
   ---
 
   ©2023 - Zaki Diop - [me contactez](contact.md)
